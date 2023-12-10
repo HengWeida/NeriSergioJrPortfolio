@@ -365,7 +365,7 @@ body {
 .aboutPic {
     display: inline-block;
     position: inline;
-    margin-top: 3%;
+    margin-top: 1%;
     border-radius: 50%;
     margin-left: 10%;
     margin-right: 10%;
@@ -378,7 +378,6 @@ body {
 
 .aboutPic:hover {
     border-radius: 5%;
-    margin-top: 3%;
     margin-left: 10%;
     margin-right: 10%;
     height: 330px;
